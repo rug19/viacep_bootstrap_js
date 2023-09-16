@@ -5,7 +5,8 @@
 
 ### Descrição 
 ````
-Assim que o usuário inserir uma etiqueta (tag) ou perder o foco do campo de CEP, o sistema deverá iniciar a busca pelos endereços.
+Assim que o usuário inserir uma etiqueta (tag) ou perder o
+foco do campo de CEP, o sistema deverá iniciar a busca pelos endereços.
 ````
 
 ### Links uteis
