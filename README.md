@@ -13,7 +13,8 @@ o sistema irá automaticamente buscar as informações de endereço na API com b
 [base de imagens](https://undraw.co/)
 
 ## Layout
-![image](https://github.com/DC-FS04-SUL/viacep_bootstrap_js/assets/19413241/eeb5f960-d04e-4a0a-a6f8-3df5bd450636)
+![image](https://github.com/DC-FS04-SUL/viacep_bootstrap_js/assets/19413241/9ed6683e-29db-4e7c-ab5d-e8f6c829dbbd)
+
 
 
 ## DOM
