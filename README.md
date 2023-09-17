@@ -5,8 +5,8 @@
 
 ### Descrição 
 ````
-Assim que o usuário inserir uma etiqueta (tag) ou perder o
-foco do campo de CEP, o sistema deverá iniciar a busca pelos endereços.
+Assim que o usuário pressionar 'Tab' ou sair do campo de entrada de CEP,
+o sistema irá automaticamente buscar as informações de endereço na API com base no CEP fornecido.
 ````
 
 ### Links uteis
