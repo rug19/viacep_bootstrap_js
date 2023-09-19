@@ -9,7 +9,7 @@ Assim que o usuário pressionar 'Tab' ou sair do campo de entrada de CEP,
 o sistema irá automaticamente buscar as informações de endereço na API com base no CEP fornecido.
 ````
 
-### Links uteis
+### Links úteis
 [base de imagens](https://undraw.co/)
 
 ## Layout
