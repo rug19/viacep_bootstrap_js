@@ -7,6 +7,9 @@
 ````
 Assim que o usuário pressionar 'Tab' ou sair do campo de entrada de CEP,
 o sistema irá automaticamente buscar as informações de endereço na API com base no CEP fornecido.
+
+Utilize o DOM para manipular os campos do formulario.
+E iremos utilizar a base do viacep para preencher os campos.
 ````
 
 ### Links úteis
